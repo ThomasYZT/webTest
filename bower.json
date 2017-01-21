@@ -1,0 +1,18 @@
+{
+  "name": "webtest",
+  "authors": [
+    "ThomasYZT"
+  ],
+  "description": "前端测试项目",
+  "main": "./app/index.html",
+  "keywords": [
+    "mumu19940222x++"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "angularjs#^1.6.1",
+    "bootstrap": "^3.3.7"
+  }
+}
